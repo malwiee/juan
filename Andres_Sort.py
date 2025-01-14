@@ -13,3 +13,5 @@ array = [3, 6, 8, 10, 1, 2, 1]
 sorted_array = quicksort(array)
 print("Original array:", array)
 print("Sorted array:", sorted_array)
+
+#ciao
